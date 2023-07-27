@@ -1,0 +1,128 @@
+[
+  {
+    "Description": "Churrasco 200gr.+ 1 Chorizo Parrillero + Papas fritas y ensalada.",
+    "Order": 1,
+    "Price": 35,
+    "Type": "Carnes",
+    "Title": "Parrilla Personal",
+    "ImgPath": "imgs/parrilla/lobster-bisque.jpg",
+    "IdCategory": "AR4c1xwLzY82zVDTtaYc"
+  },
+  {
+    "Description": "1/4 de pollo + Churrasco de 200 gr. + fritas y ensalada!",
+    "Order": 2,
+    "Price": 37,
+    "Type": "Pollo y Carne",
+    "Title": "Brasa Mix",
+    "ImgPath": "imgs/parrilla/bmix.jpg",
+    "IdCategory": "AR4c1xwLzY82zVDTtaYc"
+  },
+  {
+    "Description": "Acompañado de papas fritas y ensalada!",
+    "Order": 3,
+    "Price": 24,
+    "Type": "Pollo",
+    "Title": "Filete de Pechuga",
+    "ImgPath": "imgs/parrilla/pechu-es.jpg",
+    "IdCategory": "AR4c1xwLzY82zVDTtaYc"
+  },
+  {
+    "Description": "1/4 pollo a la brasa",
+    "Order": 1,
+    "Price": 15,
+    "Type": "Pollo",
+    "Title": "Plato Personal",
+    "ImgPath": "imgs/a_la_brasa/cuarto-brasa.jpg",
+    "IdCategory": "NkcsaC1Auiv5XKEjL8h2"
+  },
+  {
+    "Description": "Pollo a la Brasa + Papas Fritas + Ensalada + Bebida 1L.",
+    "Order": 2,
+    "Price": 50,
+    "Type": "Pollo",
+    "Title": "Combo Familiar",
+    "ImgPath": "imgs/a_la_brasa/polloPapaInka.jpg",
+    "IdCategory": "NkcsaC1Auiv5XKEjL8h2"
+  },
+  {
+    "Description": "1/2 Pardos Brasa + papas fritas + ensalada regular +2 bebidas",
+    "Order": 3,
+    "Price": 25,
+    "Type": "Pollo",
+    "Title": "Promoción Para 2",
+    "ImgPath": "imgs/a_la_brasa/medio_brasa.jpg",
+    "IdCategory": "NkcsaC1Auiv5XKEjL8h2"
+  },
+  {
+    "Description": "Porción de tarta de 3 leches",
+    "Order": 1,
+    "Price": 6,
+    "Type": "Tartas",
+    "Title": "Tarta 3 leches",
+    "ImgPath": "imgs/postres/3leches.jpg",
+    "IdCategory": "fYUnpMVum7azHQK09t4D"
+  },
+  {
+    "Description": "Porción de tarta de chocolate",
+    "IdCategory": "fYUnpMVum7azHQK09t4D",
+    "Order": 2,
+    "Price": 4,
+    "Type": "Tartas",
+    "Title": "Tarta Chocolate",
+    "ImgPath": "imgs/postres/Porcion-torta-chocolate.jpg"
+  },
+  {
+    "Description": "2 Bolas de helado en tarrina",
+    "Order": 3,
+    "Price": 3,
+    "Type": "Helados",
+    "Title": "Helado Tarrina",
+    "ImgPath": "imgs/postres/tarrina-helado.jpg",
+    "IdCategory": "fYUnpMVum7azHQK09t4D"
+  },
+  {
+    "Description": "2 bolas de helado en barquilla",
+    "Order": 4,
+    "Price": 3,
+    "Type": "Helados",
+    "Title": "Helado Barquilla",
+    "ImgPath": "imgs/postres/helado.jpg",
+    "IdCategory": "fYUnpMVum7azHQK09t4D"
+  },
+  {
+    "Description": "Botella 320ml",
+    "Order": 1,
+    "Price": 3,
+    "Type": "Cervezas",
+    "Title": "Duff",
+    "ImgPath": "imgs/bar/duff.jpg",
+    "IdCategory": "s6rlT7UjVvcFyJE1iDgL"
+  },
+  {
+    "Description": "Lata 225 ml",
+    "Order": 2,
+    "Price": 3,
+    "Type": "Cervezas",
+    "Title": "Dharma",
+    "ImgPath": "imgs/bar/dharma.jpg",
+    "IdCategory": "s6rlT7UjVvcFyJE1iDgL"
+  },
+  {
+    "Description": "Botella 2 litros",
+    "Order": 3,
+    "Price": 5,
+    "Type": "Gaseosas",
+    "Title": "Coca Cola",
+    "ImgPath": "imgs/bar/cocacola.jpg",
+    "IdCategory": "s6rlT7UjVvcFyJE1iDgL"
+  },
+  {
+    "Description": "Botella 2 Litros",
+    "Order": 4,
+    "Price": 4,
+    "Type": "Gaseosas",
+    "Title": "Pepsi",
+    "ImgPath": "imgs/bar/pepsi.png",
+    "IdCategory": "s6rlT7UjVvcFyJE1iDgL"
+  }
+]

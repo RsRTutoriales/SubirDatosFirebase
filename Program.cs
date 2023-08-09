@@ -4,16 +4,13 @@ using SubirDatosBot.Helpers;
 using SubirDatosBot.Models;
 using SubirDatosBot.Repositories;
 
-string path = AppDomain.CurrentDomain.BaseDirectory + @"subidadatosbot.json";
+string path = AppDomain.CurrentDomain.BaseDirectory + @"Nombre Archivo de claves aqui.json";
 Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", path);
 
 var client = StorageClient.Create();
 
-// Create a bucket with a globally unique name
-var bucketName = "subidadatosbot.appspot.com";
-
-//UrlSigner urlSigner = UrlSigner.FromCredentialFile(path);
-//string url = await urlSigner.SignAsync(bucketName, "file1.txt", TimeSpan.FromDays(7));
+// Nombre del bucket
+var bucketName = "Nombre de bucket aqui";
 
 //Subir categorias
 List<Categoria> categoriaPlatosList = JsonFileUtils.ReadJson<List<Categoria>>("Categorias");
